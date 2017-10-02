@@ -1,0 +1,2 @@
+# Learning PySpark
+Some code exercises from the Learning PySpark book [Learning PySpark](https://www.packtpub.com/big-data-and-business-intelligence/learning-pyspark?utm_source=github&utm_medium=repository&utm_content=9781786463708).
